@@ -89,4 +89,4 @@ All prices are estimated in USD.
 > Note: Prices are preliminary estimates based on online listings and market valuations. Mechanical component costs, wiring and connector prices are budget allowances. Shipping, import fees and taxes are excluded. Just in case.
 
 ## Another version of the HEC
-
+<img src="https://github.com/Oriprogram/HydroEcoCleaner/blob/main/Screenshot 2026-11-22 212259.png"/>
