@@ -1,4 +1,5 @@
 # HydroEcoCleaner
+<img src="https://github.com/Oriprogram/HydroEcoCleaner/blob/main/hydro-cleaner.jpg"/>
 
 ## What is this?
 
@@ -29,4 +30,4 @@ For this project I was responsible for for Hardware. More specifically, I was th
 ---
 
 ## Component stuff
-
+<img src="https://github.com/Oriprogram/HydroEcoCleaner/blob/main/ComponentGraph.png"/>
