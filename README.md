@@ -29,4 +29,4 @@ For this project I was responsible for for Hardware. More specifically, I was th
 ---
 
 ## Component stuff
-<img src="https://github.com/Oriprogram/HydroEcoCleaner/blob/main/ComponentGraph.png"/>
+<img src="https://github.com/Oriprogram/HydroEcoCleaner/blob/main/Screenshot 2026-11-22 210232.png"/>
